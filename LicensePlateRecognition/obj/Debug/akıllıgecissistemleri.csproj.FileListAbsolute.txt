@@ -1,0 +1,48 @@
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe.config
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\AForge.dll
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\AForge.Math.dll
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\AForge.xml
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\AForge.Math.xml
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\akıllıgecissistemleri.csprojResolveAssemblyReference.cache
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\akıllıgecissistemleri.Form1.resources
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\akıllıgecissistemleri.Form2.resources
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\akıllıgecissistemleri.OCR.resources
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\akıllıgecissistemleri.Properties.Resources.resources
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\akıllıgecissistemleri.csproj.GenerateResource.Cache
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.exe
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.pdb
+C:\Users\bbruc\Desktop\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe.config
+C:\Users\bbruc\Desktop\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.exe
+C:\Users\bbruc\Desktop\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.pdb
+C:\Users\bbruc\Desktop\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+C:\Users\bbruc\Desktop\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+C:\Users\bbruc\Desktop\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\AForge.dll
+C:\Users\bbruc\Desktop\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\AForge.Math.dll
+C:\Users\bbruc\Desktop\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\AForge.xml
+C:\Users\bbruc\Desktop\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\AForge.Math.xml
+C:\Users\bbruc\Desktop\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\akıllıgecissistemleri.csprojResolveAssemblyReference.cache
+C:\Users\bbruc\Desktop\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\akıllıgecissistemleri.Form1.resources
+C:\Users\bbruc\Desktop\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\akıllıgecissistemleri.Form2.resources
+C:\Users\bbruc\Desktop\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\akıllıgecissistemleri.OCR.resources
+C:\Users\bbruc\Desktop\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\akıllıgecissistemleri.Properties.Resources.resources
+C:\Users\bbruc\Desktop\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\akıllıgecissistemleri.csproj.GenerateResource.Cache
+C:\Users\bbruc\Desktop\proje II\Yeni klasör (2)\Yeni klasör (2)\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe.config
+C:\Users\bbruc\Desktop\proje II\Yeni klasör (2)\Yeni klasör (2)\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.exe
+C:\Users\bbruc\Desktop\proje II\Yeni klasör (2)\Yeni klasör (2)\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.pdb
+D:\mezunm-masaüstü\c#\proje II\Yeni klasör (2)\Yeni klasör (2)\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe.config
+D:\mezunm-masaüstü\c#\proje II\Yeni klasör (2)\Yeni klasör (2)\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.exe
+D:\mezunm-masaüstü\c#\proje II\Yeni klasör (2)\Yeni klasör (2)\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.pdb
+D:\mezunm-masaüstü\c#\proje II\Yeni klasör (2)\Yeni klasör (2)\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\akıllıgecissistemleri.csprojResolveAssemblyReference.cache
+D:\mezunm-masaüstü\c#\proje II\Yeni klasör (2)\Yeni klasör (2)\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\akıllıgecissistemleri.Form1.resources
+D:\mezunm-masaüstü\c#\proje II\Yeni klasör (2)\Yeni klasör (2)\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\akıllıgecissistemleri.Form2.resources
+D:\mezunm-masaüstü\c#\proje II\Yeni klasör (2)\Yeni klasör (2)\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\akıllıgecissistemleri.OCR.resources
+D:\mezunm-masaüstü\c#\proje II\Yeni klasör (2)\Yeni klasör (2)\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\akıllıgecissistemleri.Properties.Resources.resources
+D:\mezunm-masaüstü\c#\proje II\Yeni klasör (2)\Yeni klasör (2)\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\akıllıgecissistemleri.csproj.GenerateResource.Cache
+D:\mezunm-masaüstü\c#\proje II\Yeni klasör (2)\Yeni klasör (2)\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+D:\mezunm-masaüstü\c#\proje II\Yeni klasör (2)\Yeni klasör (2)\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+D:\mezunm-masaüstü\c#\proje II\Yeni klasör (2)\Yeni klasör (2)\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\AForge.dll
+D:\mezunm-masaüstü\c#\proje II\Yeni klasör (2)\Yeni klasör (2)\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\AForge.Math.dll
+D:\mezunm-masaüstü\c#\proje II\Yeni klasör (2)\Yeni klasör (2)\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\AForge.xml
+D:\mezunm-masaüstü\c#\proje II\Yeni klasör (2)\Yeni klasör (2)\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\AForge.Math.xml

@@ -1,0 +1,51 @@
+D:\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+D:\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+D:\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.Properties.Resources.resources
+D:\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.csproj.GenerateResource.Cache
+D:\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.exe
+D:\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.pdb
+D:\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.LicensePlateRecognitionForm.resources
+D:\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe.config
+D:\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+D:\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+D:\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.csprojResolveAssemblyReference.cache
+D:\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.LicensePlateRecognitionForm.resources
+D:\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.OCR.resources
+D:\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.Properties.Resources.resources
+D:\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.TestLPR.resources
+D:\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.csproj.GenerateResource.Cache
+D:\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.exe
+D:\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.pdb
+E:\Sao Viet\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe.config
+E:\Sao Viet\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+E:\Sao Viet\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+E:\Sao Viet\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.LicensePlateRecognitionForm.resources
+E:\Sao Viet\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.OCR.resources
+E:\Sao Viet\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.Properties.Resources.resources
+E:\Sao Viet\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.csproj.GenerateResource.Cache
+E:\Sao Viet\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.exe
+E:\Sao Viet\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.pdb
+E:\Sao Viet\Project Vstar\He thong kiem soat vao ra\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.csprojResolveAssemblyReference.cache
+E:\Xu ly anh\Doc ky tu\Puma.Net\Modul License Plate Recognition-10-05-2014\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe.config
+E:\Xu ly anh\Doc ky tu\Puma.Net\Modul License Plate Recognition-10-05-2014\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+E:\Xu ly anh\Doc ky tu\Puma.Net\Modul License Plate Recognition-10-05-2014\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+E:\Xu ly anh\Doc ky tu\Puma.Net\Modul License Plate Recognition-10-05-2014\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.OCR.resources
+E:\Xu ly anh\Doc ky tu\Puma.Net\Modul License Plate Recognition-10-05-2014\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.Properties.Resources.resources
+E:\Xu ly anh\Doc ky tu\Puma.Net\Modul License Plate Recognition-10-05-2014\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.csproj.GenerateResource.Cache
+E:\Xu ly anh\Doc ky tu\Puma.Net\Modul License Plate Recognition-10-05-2014\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.exe
+E:\Xu ly anh\Doc ky tu\Puma.Net\Modul License Plate Recognition-10-05-2014\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.pdb
+E:\Xu ly anh\Doc ky tu\Puma.Net\Modul License Plate Recognition-10-05-2014\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.csprojResolveAssemblyReference.cache
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.Form1.resources
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.Form2.resources
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.OCR.resources
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.Properties.Resources.resources
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.csproj.GenerateResource.Cache
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe.config
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\AForge.dll
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\AForge.Math.dll
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\AForge.xml
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\bin\Debug\AForge.Math.xml
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.exe
+C:\Users\bbruc\Desktop\proje II\OCR\Modul License Plate Recognition\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.pdb
